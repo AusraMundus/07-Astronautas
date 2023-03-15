@@ -32,20 +32,38 @@
             gap: 30px;
         }
 
-        a {
+        nav>a {
             font-size: 20px;
             color: black;
             text-decoration: none;
             font-family: Arial, Helvetica, sans-serif;
         }
-        a:hover {
+        nav>a:hover {
             text-decoration: underline;
         }
 
         main {
             display: flex;
+            align-items: center;
             gap: 20px;
-            background-color: rgb(20, 216, 30); 
+        }
+        
+        div {
+            width: 40%;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        span {
+            font-weight: normal;
+            display: block;
+        }
+
+        p {
+            
+        }
+
+        main image {
+            width: 60%; 
         }
 
         footer {
@@ -67,13 +85,13 @@
     </header>
 
     <main>
-        <div style=width:40%;>
-            <h1>404 Lost in space</h1>
+        <div>
+            <h1><span>404</span>Lost in space</h1>
             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perferendis quos a officiis temporibus eaque quidem veritatis repellendus vero quaerat dignissimos, deserunt, enim beatae iusto. Voluptas sint qui tempora reprehenderit. Architecto?</p>
             <a href="#">Go home</a>
             <a href="#">Back</a>
         </div>
-        <img style=width:60%; src="astronautas.webp" alt="Astronautas">
+        <img src="astronautas.webp" alt="Astronautas">
     </main>
     
     <footer>FOOTER</footer>
