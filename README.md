@@ -19,6 +19,8 @@ Design: [Lost in Space](https://dribbble.com/shots/5964475-404-Lost-in-Space)
 
 -   Github pages
 -   [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+-   Content
+-   Image
 -   Icons
 -   CSS flex
 
@@ -61,7 +63,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 ### 🧪 Running tests
 
-There is no tests for this project.
+There are no tests for this project.
 
 ## 🙋‍♀️ Authors
 
@@ -73,4 +75,4 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 
 ## 🔗 Other resources
 
-No resources.
+There are no recourses for this project.
