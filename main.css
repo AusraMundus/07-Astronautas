@@ -17,7 +17,7 @@ body {
     justify-content: space-between;
 }
 
-.logo > img {
+.logo {
    height: 40px;
    width: 100px;
    object-fit: contain;

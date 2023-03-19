@@ -75,4 +75,4 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 
 ## 🔗 Other resources
 
-There are no recourses for this project.
+There are no other recourses for this project.
