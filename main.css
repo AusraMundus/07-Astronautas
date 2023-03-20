@@ -57,6 +57,17 @@ body {
     font-weight: 100;
     display: block;
 }
+
+.title::after {
+    content: '';
+    display: block;
+    width: 100px;
+    height: 4px;
+    background-color: #662c8c;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
 .description {
     color: rgb(170, 170, 170);
     font-size: 13px;
@@ -103,6 +114,7 @@ body {
 
 .social-link {
     color: rgb(170, 170, 170);
+    text-decoration: none;
 }
 
 .copyright {
